@@ -10,13 +10,30 @@ header {
 }
 
 
+
 body{
     background:rgb(60, 86, 66);
 }
+
+
+
 section {
 
 
 }
+
+#section-1 {
+display: flex;
+justify-content:space-between;
+margin-bottom: 2em;
+list-style: none;
+margin-left: 2em;
+margin-right: 2em;
+text-decoration: none;
+}
+
+
+
 
 #section-00 {
   text-align: center;
